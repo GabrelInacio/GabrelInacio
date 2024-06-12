@@ -49,25 +49,6 @@
 
 <br>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-<div style="overflow: hidden;">
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabrelInacio&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=midnight-purple" style="height: 200px;" />
-  </div>
-  <div style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrelInacio&show_icons=true&locale=en&layout=compact&theme=midnight-purple" style="height: 200px;" />
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-
 ## <b> Contact me! </b>
 <br>
 
